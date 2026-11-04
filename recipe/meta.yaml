@@ -1,6 +1,6 @@
 {% set name = "leafmap" %}
 {% set version = "0.64.0" %}
-{% set python_min = "3.10" %}
+{% set python_min = "3.12" %}
 
 package:
   name: {{ name|lower }}
