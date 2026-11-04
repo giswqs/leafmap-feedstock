@@ -30,11 +30,11 @@ requirements:
     - geopandas
     - h5netcdf
     - h5py
-    - ipyevents
+    - ipyevents >=0.8.0
     - ipyfilechooser
     - ipyleaflet
     - ipyvuetify
-    - ipywidgets >=8.0.0
+    - ipywidgets
     - ipysheet
     - jupyterlab
     - localtileserver
